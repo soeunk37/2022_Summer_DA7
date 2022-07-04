@@ -1,4 +1,4 @@
-# DA7_Team_2022
+# DA_Team7_2022
 
 2022 CUAI 하계 컨퍼런스 DA 7팀 repository
 
