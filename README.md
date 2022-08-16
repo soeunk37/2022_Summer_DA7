@@ -47,7 +47,7 @@ LPAY 결제의 활성화를 통해 ARPU 증대, 락인효과 등을 촉진시키
 
 <br/>
 
-##  expectation effectiveness
+##  Expectation effectiveness
 
 롯데멤버스의 제공 데이터의 Unique 고객 수는 총 29,874 명이고 LPAY 미가입 유저 중 LPAY 1등급 예측 유저 총 683 명이다. 따라서, 제공 데이터 기준으로 1등급 예측 유저 / 전체 표본=  683 / 29,874 = 2.29 %이다.  
 
